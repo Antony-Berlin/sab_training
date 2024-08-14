@@ -2,5 +2,5 @@ just a text file
 
 edit 1
 edit 2
-edit in branch 2
+
 
